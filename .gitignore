@@ -1,0 +1,18 @@
+./pose-env# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore environment folders
+venv/
+pose-env/
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build folders
+build/
+dist/
